@@ -5,8 +5,8 @@
 **Watch live football, sports channels & match replays on Android phones, tablets and Android TV.**
 Fast HLS player · Quality selector · Subtitles · Referral & Premium · Free.
 
-[![Download Android App](https://img.shields.io/badge/⬇%20Download%20APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/arzbartar/arenalive-app/releases/download/v3.1.4/arena-live-app-v3.1.4.apk)
-[![Download TV Version](https://img.shields.io/badge/📺%20Android%20TV-7C3AED?style=for-the-badge&logo=androidtv&logoColor=white)]()
+[![Download Android App](https://img.shields.io/badge/⬇%20Download%20APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/arzbartar/arenalive-app/releases/download/v3.1.6/arena-live-app-v3.1.6.apk)
+[![Download TV Version](https://img.shields.io/badge/📺%20Android%20TV-7C3AED?style=for-the-badge&logo=androidtv&logoColor=white)](https://github.com/arzbartar/arenalive-app/releases/download/v3.1.6/arena-live-app-tv-v3.1.6.apk)
 [![Website](https://img.shields.io/badge/🌐%20arenalive.ir-22C55E?style=for-the-badge)](https://arenalive.ir)
 
 </div>
